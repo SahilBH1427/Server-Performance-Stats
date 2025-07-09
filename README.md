@@ -21,8 +21,13 @@ Perfect for DevOps engineers and system admins for quick diagnostics.
 
 ```bash
 git clone https://github.com/SahilBH1427/Server-Performance-Stats.git
-cd Server-Performance-Stats
+```
 
+## 
+
+```bash
+cd Server-Performance-Stat
+```
 
 
 👨‍💻 Author
